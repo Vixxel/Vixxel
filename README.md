@@ -1,7 +1,7 @@
 ╔═══*.·:·.☽✧    ✦    ✧☾.·:·.*═══╗
 
 
-~ I'm @Vixxel, not a new user around here.
+~ I'm @Vexa, not a new user around here.
 
 ~ I enjoy learning about codes, scripting, and anything computer wise. I also love aviation and law.
 
@@ -17,7 +17,7 @@
 
 •❅──────✧❅✦❅✧──────❅•
 
-Discord ~ Beloved#6734
+Discord ~ Vexa#0830
 
 Snapchat ~ sansissnap193
 
@@ -25,7 +25,7 @@ Youtube ~ Rinzlerkia
 
 Twitter ~ Vixel_A
 
-Instagram ~ x__Beloved
+Instagram ~ Vixelx__
 
 •❅──────✧❅✦❅✧──────❅•
 
