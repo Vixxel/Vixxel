@@ -17,9 +17,7 @@
 
 •❅──────✧❅✦❅✧──────❅•
 
-Discord ~ Vexa#0830
-
-Snapchat ~ sansissnap193
+Discord ~ @VexaPyro
 
 Youtube ~ Rinzlerkia
 
