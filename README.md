@@ -5,7 +5,7 @@
 
 ~ I enjoy learning about codes, scripting, and anything computer wise. I also love aviation and law.
 
-~ I'm currently a senior for my high school and in my vo-tech school.
+~ I'm a current cybersecurity associate at college.
 
 ~ I'm looking to help those with managemental positioning and related fields.
 
