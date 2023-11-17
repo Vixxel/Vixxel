@@ -19,12 +19,6 @@
 
 Discord ~ @VexaPyro
 
-Youtube ~ Rinzlerkia
-
-Twitter ~ Vixel_A
-
-Instagram ~ Vixelx__
-
 •❅──────✧❅✦❅✧──────❅•
 
 
