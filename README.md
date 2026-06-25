@@ -1,26 +1,49 @@
-╔═══*.·:·.☽✧    ✦    ✧☾.·:·.*═══╗
+# Hi, I'm Vexa 👋
 
+🎓 Cybersecurity & Digital Forensics Graduate
 
-~ I'm @Vexa, not a new user around here.
+I'm passionate about building cybersecurity tools, learning digital forensics, and expanding my skills.
 
-~ I enjoy learning about codes, scripting, and anything computer wise. I also love aviation and law.
+---
 
-~ I'm a current cybersecurity associate at college.
+## 🛡️ Areas of Interest
 
-~ I'm looking to help those with managemental positioning and related fields.
+- Digital Forensics (DFIR)
+- Cybersecurity
+- Incident Response
+- Python Development
+- Windows Internals
+- System Administration
+- Network Security
 
+---
 
-~ You're free to contact me on the social medias below this description
+## 🚀 Featured Projects
 
+### 🔍 USB Forensic Toolkit
+A Windows-based digital forensics toolkit written in Python.
+Repository:
+https://github.com/Vixxel/USB-Forensic-Toolkit
 
-╚═══*.·:·.☽✧    ✦    ✧☾.·:·.*═══╝
+---
 
-•❅──────✧❅✦❅✧──────❅•
+## 💻 Languages & Tools
 
-Discord ~ @VexaPyro
+- Python
+- Windows Registry
+- Win32 API
+- ReportLab
+- Git & GitHub
+- FTK
+- EnCase
+- Autopsy
 
-•❅──────✧❅✦❅✧──────❅•
+---
 
+## 📫 Contact
 
-Thank you for checking my profile!
+Discord:
+**@VexaPyro**
 
+GitHub:
+https://github.com/Vixxel
