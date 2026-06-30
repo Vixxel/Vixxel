@@ -30,6 +30,11 @@ A Windows-based password audit toolkit that was written in Python.
 Respository:
 https://github.com/Vixxel/Password-Audit-Toolkit
 
+### 🔴 Chatcolor-Spigot 
+A minecraft plugin that changes your text color and utilizes playerdatamanager.
+Repository:
+https://github.com/Vixxel/ChatColor-Spigot
+
 ---
 
 ## 💻 Languages & Tools
